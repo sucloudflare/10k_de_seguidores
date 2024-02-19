@@ -21,10 +21,12 @@
     <p>Highlight the main features of your program. Mention what sets it apart from others and why users might find it useful.</p>
     <h2 id="installation">Installation</h2>
     <p>Explain how to install your program, including any dependencies. Provide clear instructions to make it easy for users to set up and run your code.</p>
-    <pre>        <code># Example installation commands
-            pip install -r requirements.txt
-            python your_program.py
-        </code>
+    <pre>        
+     <code>
+ # Example installation commands
+             pip install -r requirements.txt
+             python your_program.py
+    </code>
     </pre>
 
    <h2 id="usage">Usage</h2>
@@ -32,10 +34,11 @@
    <p>Include detailed instructions on how to use your program. Provide examples of command-line usage, if applicable. If there are specific settings or configurations, document them here.</p>
 
   <pre>
-        <code># Example usage
-            python your_program.py --option value
-        </code>
-    </pre>
+    <code>
+    # Example usage
+             python your_program.py --option value
+    </code>
+ </pre>
 
    <h2 id="screenshots">Screenshots</h2>
     <p>If your program has a graphical user interface or produces visual output, include screenshots to give users a preview.</p>
