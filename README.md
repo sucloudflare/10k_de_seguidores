@@ -23,8 +23,8 @@
     <p>Explain how to install your program, including any dependencies. Provide clear instructions to make it easy for users to set up and run your code.</p>
     <pre>        
      <code>
-             pip install -r requirements.txt
-            python your_program.py
+            pip install -r requirements.txt
+            python cadastro.py
     </code>
     </pre>
 
@@ -34,8 +34,7 @@
 
   <pre>
     <code>
-    
-        python your_program.py --option value
+        python cadastro.py --option value
     </code>
  </pre>
 
