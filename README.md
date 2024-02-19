@@ -24,7 +24,7 @@
     <pre>        
      <code>
             pip install -r requirements.txt
-            python cadastro.py
+            python3 cadastro.py
     </code>
     </pre>
 
