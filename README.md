@@ -47,7 +47,3 @@
    <h2 id="license">License</h2>
 
   <p>Specify the license under which your program is released. Common choices include MIT, Apache, or GPL. Make sure to include a copy of the license in your project.</p>
-
-  <pre>
-    This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details
-   </pre>
