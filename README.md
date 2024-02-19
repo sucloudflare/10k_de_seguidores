@@ -23,9 +23,8 @@
     <p>Explain how to install your program, including any dependencies. Provide clear instructions to make it easy for users to set up and run your code.</p>
     <pre>        
      <code>
- # Example installation commands
              pip install -r requirements.txt
-             python your_program.py
+            python your_program.py
     </code>
     </pre>
 
@@ -35,8 +34,8 @@
 
   <pre>
     <code>
-    # Example usage
-             python your_program.py --option value
+    
+        python your_program.py --option value
     </code>
  </pre>
 
